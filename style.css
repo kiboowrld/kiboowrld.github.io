@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+}
+
+
+body {
+    background-image: url('img/world.jpeg');
+    font-family: Arial, sans-serif;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.white-text {
+   color: white
+}
+
+.back-to-top {
+    display: inline-block;
+    background-color: silver;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}   
+
+footer {
+  text-align: center;
+}
